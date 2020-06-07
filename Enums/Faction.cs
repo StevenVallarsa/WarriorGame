@@ -1,4 +1,4 @@
-﻿namespace WarriorGame
+﻿namespace WarriorGame.Enum
 {
     enum Faction
     {
